@@ -1,0 +1,7 @@
+flight ID : HO91R
+Airport : Honolulu
+Date : 2011-04-13
+Passengers :
+ 17 Frac
+ 22 Krupowies
+Number of passengers 2

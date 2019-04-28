@@ -1,0 +1,9 @@
+flight ID : KR54R
+Airport : Katowice
+Date : 2011-12-13
+Passengers :
+  2 Matianek
+  3 Jaworek
+ 12 Lopez
+ 43 Chavez
+Number of passengers 4
